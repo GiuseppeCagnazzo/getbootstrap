@@ -38,3 +38,19 @@ hr {
 .fas.fa-circle {
     font-size: 5px;
 }
+.carousel-item {
+    background-color: #767676;
+    height: 500px;
+    }
+    
+    .carousel-inner {
+    margin: auto;
+    }
+    
+    h2 {
+    margin-bottom: 50px;
+    }
+    
+    .btn btn-primary {
+    margin-bottom: 30px;
+    }
